@@ -1,0 +1,49 @@
+
+
+ 
+variability detection and classification in astronomical datasets on the example of TESS
+ 
+
+outline:
+
+Nowadays large-scale astronomical surveys enable us to see the universe in a much more detailed, and in particular different way than before.
+In the era of such large-scale surveys, methods to handle investigate these  data, and especially to classify sources, become more and more important.
+This project uses light curve data from the NASA Transiting Exoplanet Survey Satellite
+(TESS), where each star is observed for 27 days with a high cadence of 30 minutes.
+The project entails the development and testing of reliable and fast machine-learning methods in order to identify and classify rare types of variable stars and
+exoplanet systems in the Milky Way. 
+
+
+background:
+
+Most stars, like the sun, have approximately constant brightness, but approximately 1 - 5 % of all stars show a significant amount of variability in their intensity.
+Variable stars are important tracers of the Milky Way's evolution.
+Stars such as RR Lyrae allow to precisely estimate distances in the old Milky
+Way components, providing important information to answer questions regarding
+formation and evolution of galaxies. Other stars such as spotted stars allow to
+gain insight into magnetic activity of stars. Rare supernova events allow to
+calculate distances at cosmological scales. Historically, variable stars have
+been identified by manually sorting images or making brightness-over-time (light
+curve) plots based on small, targeted surveys. Modern all-sky astronomical
+surveys allow for evaluating huge amounts of data. Machine-learning tools are
+extremely important to cope with such an amount of data, as well as to allow for
+a more precise evaluation of the data than done with classical algorithms.
+Approaches like that were already carried out and proven as very successful for some
+astronomical surveys such as Pan-STARRS1, which provided relatively sparse data. This research project aims to test the
+effectivity of using machine learning to classifying variable stars for TESS, whose
+data quality should allow for a very detailed classification.
+
+
+learning objectives:
+
+Programming and software testing (Python), algorithm design, more knowledge regarding
+processing astronomical data, in particular data of variable stars.
+Programming language: Python 3.x. Preknowledge in programming is helpful, but this project can also be tailored towards students with no programming background. 
+(In the past, for similar projects I supervised students with limited to no programming experience, as well as students with a lot of experience in programming/ software engineering. )
+language: I'm fluent in English; I'm learning Spanish but I'm not advanced enough to supervise students speaking only Spanish.
+
+Supervisor:
+Nina Hernitschek, PhD; currently a senior postdoc in astronomy and data science at Vanderbilt University and visiting professor at Universidad de Antofagasta (Chile);
+assistant professor in astroinformatics at Universidad de Antofagasta from 2023 on
+
+
